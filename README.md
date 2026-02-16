@@ -1,8 +1,5 @@
 # TS100 Firmware and Documentation Archive
 
-> [!WARNING]
-> DISCLAIMER: All rights 
-
 ## Sources
 
 - [Forum Thread for Source Codes and Binaries](https://forum.minidso.com/forum.php?mod=viewthread&tid=892&extra=page%3D1)
